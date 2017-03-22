@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoaTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="preference_file_key">all_prefs</string>
+    <string name="pref_nextreqid">nextreqid</string>
+    <string name="pref_lastcommittedreqid">lastcommittedreqid</string>
+</resources>
